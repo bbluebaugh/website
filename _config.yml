@@ -50,8 +50,34 @@ author:
   stackoverflow         : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam                 : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr                :
-  twitter               : 
+  twitter               :
   vine                  :
   weibo                 :
   xing                  :
   youtube               : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: # true
+        share: true
+        related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+      values:
+        layout: single
+        author_profile: true
+        
