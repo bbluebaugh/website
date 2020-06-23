@@ -1,1 +1,57 @@
+# Attempting the creation of a yml file for github pages
+
 theme: jekyll-theme-midnight
+
+
+
+
+
+
+
+
+# Site Settings
+local                 : "en-US"
+title                 : "Brian Bluebaugh"
+title_separator       : "-"
+name                  : "Brian Bluebaugh"
+description           : "This is my portfolio based on my Github Projects"
+url                   : "https://bbluebaugh.github.io/website/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository            : "bbluebaugh/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+words_per_minute      : 200
+
+# Social Sharing
+Twitter:
+  username             : "bbluebaugh"
+
+# Site Author
+author:
+  name                  : "Brian Bluebaugh"
+  avatar                : # path to avatar img e.g. "/assets/images.bio-photo.jpg"
+  bio                   : "Assistant professor of COSC, probably going to be a developer soon."
+  location              : "Cumberland, MD"
+  email                 : "bbluebaugh@gmail.com"
+  uri                   : # idk what to put here
+  home                  : # null (default), "absolute or relative url to link to author home"
+  bitbucket             : # Do not have a bitbucket
+  codepen               :
+  dribbble              :
+  flickr                :
+  facebook              :
+  foursquare            :
+  github                : "bbluebaugh"
+  gitlab                : "bbluebaugh"
+  google_plus           :
+  keybase               :
+  instagram             :
+  lastfm                :
+  linkedin              : "brian-bluebaugh-993684117" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest             :
+  soundcloud            :
+  stackoverflow         : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam                 : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr                :
+  twitter               : 
+  vine                  :
+  weibo                 :
+  xing                  :
+  youtube               : # "https://youtube.com/c/MichaelRoseDesign"
