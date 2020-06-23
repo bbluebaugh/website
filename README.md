@@ -1,2 +1,2 @@
 # website
-website created with github to show projects ideally
+Attempting to create a github pages site to show the projects that I have in my repos.
