@@ -26,7 +26,7 @@ Twitter:
 # Site Author
 author:
   name                  : "Brian Bluebaugh"
-  avatar                : # path to avatar img e.g. "/assets/images.bio-photo.jpg"
+  avatar                : "/images/bio.jpg" # path to avatar img e.g. "/assets/images.bio-photo.jpg"
   bio                   : "Assistant professor of COSC, probably going to be a developer soon."
   location              : "Cumberland, MD"
   email                 : "bbluebaugh@gmail.com"
@@ -80,4 +80,3 @@ defaults:
       values:
         layout: single
         author_profile: true
-        
